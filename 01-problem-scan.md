@@ -25,7 +25,7 @@ Tên bài toán: Tối ưu hoá quy trình xác nhận báo cáo lộ trình ca
 Công ty thành viên: Xanh SM
 Ai đang đau (Actor)? Tài xế và điều phối viên vận hành
 Workflow thủ công hiện tại:
- 1) Tài xế gửi log thô → 2) Điều phối viên kiểm tra/chỉnh sửa → 3) Gửi báo cáo cuối ca
+ 1) Tài xế gửi log thô → 2) Điều phối  viên kiểm tra/chỉnh sửa → 3) Gửi báo cáo cuối ca
 Bước tốn thời gian nhất: Bước 2 — 8–12 phút/lượt
 AI hỗ trợ: Tự động chuẩn hoá dữ liệu, phát hiện anomalies và gợi ý sửa
 Metric: Giảm thời gian kiểm tra từ 10 phút → <=2 phút; Tỉ lệ lỗi <2%
