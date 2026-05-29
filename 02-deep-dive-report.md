@@ -1,8 +1,7 @@
 ## 02 — Deep Dive Report (Bài nhóm)
 
-Nhóm: (Ghi tên nhóm / mã lớp)
-Thành viên thực hiện: (Ghi tên thành viên)
-Ngày: (Ghi ngày hoàn thành)
+Nhóm: Vin Tạy
+Thành viên thực hiện: Nguyễn Mạnh Hiếu
 
 ---
 
